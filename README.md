@@ -1,2 +1,2 @@
 # practica-1
-Practica de los cursos 
+Practica de los curso de nodejs.
